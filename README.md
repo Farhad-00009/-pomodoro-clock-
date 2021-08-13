@@ -1,1 +1,1 @@
-# -pomodoro-clock-
+# pomodoro-clock
